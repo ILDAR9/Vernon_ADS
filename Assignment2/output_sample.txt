@@ -1,0 +1,41 @@
+David Vernon
+Arrival rate:   10 cars per minute
+Departure:      1 seconds per car
+Runtime:        10 minutes
+Time increment: 100 milliseconds
+Light sequence: Red 30 seconds; Green 30 seconds
+Average length: 3 cars
+Maximum length: 12 cars
+Average wait:   13 seconds
+Maximum wait:   31 seconds
+
+Arrival rate:   10 cars per minute
+Departure:      2 seconds per car
+Runtime:        10 minutes
+Time increment: 100 milliseconds
+Light sequence: Red 30 seconds; Green 30 seconds
+Average length: 2 cars
+Maximum length: 10 cars
+Average wait:   15 seconds
+Maximum wait:   47 seconds
+
+Arrival rate:   10 cars per minute
+Departure:      3 seconds per car
+Runtime:        10 minutes
+Time increment: 100 milliseconds
+Light sequence: Red 30 seconds; Green 30 seconds
+Average length: 10 cars
+Maximum length: 19 cars
+Average wait:   53 seconds
+Maximum wait:   96 seconds
+
+Arrival rate:   10 cars per minute
+Departure:      4 seconds per car
+Runtime:        10 minutes
+Time increment: 100 milliseconds
+Light sequence: Red 30 seconds; Green 30 seconds
+Average length: 16 cars
+Maximum length: 32 cars
+Average wait:   97 seconds
+Maximum wait:   192 seconds
+

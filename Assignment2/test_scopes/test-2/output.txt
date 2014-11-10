@@ -1,0 +1,41 @@
+Nurgaliev Ildar
+Arrival rate:   10 cars per minute
+Departure:      1 seconds per car
+Runtime:        10 minutes
+Time increment: 100 milliseconds
+Light sequence: Red 30 seconds; Green 30 seconds
+Average length: 2 cars
+Maximum length: 9 cars
+Average wait:   11 seconds
+Maximum wait:   31 seconds
+
+Arrival rate:   10 cars per minute
+Departure:      2 seconds per car
+Runtime:        10 minutes
+Time increment: 100 milliseconds
+Light sequence: Red 30 seconds; Green 30 seconds
+Average length: 3 cars
+Maximum length: 13 cars
+Average wait:   18 seconds
+Maximum wait:   55 seconds
+
+Arrival rate:   10 cars per minute
+Departure:      3 seconds per car
+Runtime:        10 minutes
+Time increment: 100 milliseconds
+Light sequence: Red 30 seconds; Green 30 seconds
+Average length: 6 cars
+Maximum length: 17 cars
+Average wait:   34 seconds
+Maximum wait:   90 seconds
+
+Arrival rate:   10 cars per minute
+Departure:      4 seconds per car
+Runtime:        10 minutes
+Time increment: 100 milliseconds
+Light sequence: Red 30 seconds; Green 30 seconds
+Average length: 18 cars
+Maximum length: 36 cars
+Average wait:   110 seconds
+Maximum wait:   209 seconds
+
